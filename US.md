@@ -58,7 +58,7 @@
 | [LinkedIn](https://www.linkedin.com/jobs/view/2506116012/) | Multiple Locations | Present | |
 | [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer-Intern---Fall-2021_JR1941950-1) | Santa Clara, CA | Present | |
 | [Snowflake](https://careers.snowflake.com/us/en/search-results?rk=l-university-recruiting&sortBy=Most%20relevant) | Multiple | Present | |
-| [Coursera](https://jobs.lever.co/coursera/a9899973-418a-4249-af07-744f9227a9b1) | Remote, OR | Present | |
+| APPLIED [Coursera](https://jobs.lever.co/coursera/a9899973-418a-4249-af07-744f9227a9b1) | Remote, OR | Present | |
 | [Anduril](https://jobs.lever.co/anduril/9312d9f4-ce3b-43b8-b870-d86bfc838135) | Irvine, CA | Present | Perception | 
 | [NerdWallet](https://jumpstart.me/discover/jobs/nerd-wallet/data-science-intern/502fa8db-9dac-4db5-8444-bdeca6503fd2) | San Francisco, CA or Remote US | Present | Data Science, September to December |
 | [MealMe](https://www.mealme.ai/careers) | San Francisco, CA or Remote US | Present | Software Engineering, Marketing, Operations, and Graphic Design internships available year-round |
